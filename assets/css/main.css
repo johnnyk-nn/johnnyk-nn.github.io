@@ -1807,7 +1807,7 @@
 	}
 
 	header p {
-		color: #bbb;
+		color: white;
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
@@ -3138,7 +3138,7 @@
 		padding: 6em 0 4em 0;
 		background: #65A85e;
 		text-align: center;
-		color: #c8e7f0;
+		color: white;
 	}
 
 		#footer h2 {
