@@ -3209,3 +3209,37 @@
 				}
 
 		}
+
+		#container {
+			position: relative;
+			top: 30px;
+			outline:2px solid #000;
+			font-size: 1.3em;
+			font-weight: bold;
+			text-align: center;
+			margin:auto;
+			height:960px;
+			width:960px;
+			padding: 0;
+			border: none;
+		}
+		
+		.grid {
+			margin:0;
+			padding:0;
+			border:none;
+			outline:1px solid #000;
+			display:inline-block;
+		}
+		
+		#title{
+			text-align: center;
+		}
+		
+		#clue{
+			text-align: center;
+		}
+		
+		.displayClue{
+			visibility: hidden;
+		}	
