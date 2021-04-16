@@ -3244,3 +3244,8 @@
 		.displayClue{
 			visibility: hidden;
 		}	
+
+		#amazon-connect-chat-widget{
+			position:relative; 
+			left:80px;
+		}
