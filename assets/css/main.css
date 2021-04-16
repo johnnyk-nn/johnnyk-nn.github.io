@@ -3246,6 +3246,6 @@
 		}	
 
 		#amazon-connect-chat-widget{
-			position:relative; 
-			left:80px;
+			/* position: relative;
+			left: -65%; */
 		}
